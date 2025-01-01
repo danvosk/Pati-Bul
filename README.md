@@ -61,16 +61,16 @@ Bu proje, sokakta veya barınakta bulunan hayvanların daha hızlı ve kolay bir
 
 ---
 
-## 📷 Ekran Görselleri
+## 📸 Ekran Görselleri
 
 ### Anasayfa
-![Anasayfa](Pati%20Bul/Assets.xcassets/anasayfa.imageset/1x.png)
+![Anasayfa](Pati%20Bul/Assets.xcassets/anasayfa.imageset/anasayfa.png)
 
 ### Giriş
-![Giriş](Pati%20Bul/Assets.xcassets/giris.imageset/1x.png)
+![Giriş](Pati%20Bul/Assets.xcassets/giris.imageset/giris.png)
 
-### İlan
-![İlan](Pati%20Bul/Assets.xcassets/ilan.imageset/1x.png)
+### İlanlar
+![İlan](Pati%20Bul/Assets.xcassets/ilan.imageset/ilan.png)
 
 ### Profil
-![Profil](Pati%20Bul/Assets.xcassets/profil.imageset/1x.png)
+![Profil](Pati%20Bul/Assets.xcassets/profil.imageset/profil.png)
